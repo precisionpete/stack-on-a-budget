@@ -82,6 +82,15 @@
 * *Limitations*: No limits
 * *Exceeding the free tier*: need to pay, will included unlimited workspaces, file uploads, and more advanced features
 
+## The 2hO Network
+
+[Home page](https://2ho.ca)
+
+* *Free tier*: Multiple devices and tunnels for non-commercial use
+* *Pros*: A roaming P2P VPN connecting multiple computers and servers to a single overlay LAN
+* *Limitations*: No limits
+* *Exceeding the free tier*: Paying for a Pro license with add more features like multiple users, layered access control, external sharing, etc.
+
 ## Warrant
 
 [Pricing page](https://warrant.dev/pricing)
